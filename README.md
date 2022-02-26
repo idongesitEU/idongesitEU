@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Idongesit
 - 👀 I’m interested in Programming
+- 💊 I know a good dose of Python and JavaScript
 - 🌱 I’m currently learning Java
 
 
